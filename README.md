@@ -46,4 +46,7 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bagadi-alnour&show_icons=true&hide_border=true&include_all_commits=true&theme=merko" alt="Bagadi's github stats" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagadi-alnour&layout=compact)]
+<br>
+<br>
+
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagadi-alnour&layout=compact)
