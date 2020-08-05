@@ -2,6 +2,11 @@
 
 ## I am a full-stack MERN developer
 
+- 🔭 I'm currently working on a my personal project [azrica]!
+- 🌱 I'm currently learning Flutter
+- 👯 I'm looking for a full-time job
+- ⚡ Fun fact: I'm learning Ukulele
+
 ### Stay in touch
 
 [<img align="left" alt="bagadi-alnour.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -34,8 +39,11 @@
 [mongodb]: https://github.com/bagadi-alnour/e-commerce
 [react]: https://github.com/bagadi-alnour/dev-network
 [github]: https://github.com/bagadi-alnour
+[azrica]: https://azrica.herokuapp.com/
 [linkedin]: https://www.linkedin.com/in/bagadi-alnour/
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bagadi-alnour&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bagadi-alnour&show_icons=true&hide_border=true&include_all_commits=true&theme=merko" alt="Bagadi's github stats" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagadi-alnour&layout=compact)]
