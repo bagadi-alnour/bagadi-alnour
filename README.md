@@ -49,4 +49,4 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagadi-alnour&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagadi-alnour&layout=compact)](https://github.com/bagadi-alnour/github-readme-stats)
