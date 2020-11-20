@@ -3,7 +3,7 @@
 ## I am a full-stack MERN developer
 
 - 🔭 I'm currently working on a my personal project [azrica]!
-- 🌱 I'm currently learning Flutter
+- 🌱 I'm currently learning Java, Flutter
 - 👯 I'm looking for a full-time job
 - ⚡ Fun fact: I'm learning Ukulele
 
