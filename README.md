@@ -5,7 +5,7 @@
 - 🚩 I'm currently working on a my personal project [azrica]!
 - 🌱 I'm currently learning Flutter
 - 👯 I'm looking for a full-time job
-- 🎸 Fun fact: I'm learning Ukulele
+- ❕ fun fact : I dont put comma at the end of Statements/declarations in js 
 
 ### Stay in touch
 
