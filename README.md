@@ -1,6 +1,6 @@
 ### Hello there! My name is [Bagadi]
 
-## I am a full-stack MERN developer
+## I am a full-stack (Java+Agnular+AWS) developer
 
 - 🚩 I'm currently working on a my personal project which will be up soon
 - 🌱 I'm currently learning react-native 
