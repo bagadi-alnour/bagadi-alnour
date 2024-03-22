@@ -2,14 +2,12 @@
 
 ## I am a full-stack MERN developer
 
-- 🚩 I'm currently working on a my personal project [azrica]!
-- 🌱 I'm currently learning Flutter
-- 👯 I'm looking for a full-time job
+- 🚩 I'm currently working on a my personal project which will be up soon
+- 🌱 I'm currently learning react-native 
+- 👯 I'm not looking for a new job
 - ❕ fun fact : I dont put comma at the end of Statements/declarations in js 
 
 ### Stay in touch
-
-[<img align="left" alt="bagadi-alnour.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][bagadi]
 
 [<img align="left" alt="bgaato | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="bagadi-alnour | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
