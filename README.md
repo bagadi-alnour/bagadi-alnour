@@ -24,12 +24,8 @@
 <br />
 <br />
 
-[bagadi]: http://bagadi-alnour.com
 [twitter]: https://twitter.com/bgaato
-[mongodb]: https://github.com/bagadi-alnour/e-commerce
-[react]: https://github.com/bagadi-alnour/dev-network
 [github]: https://github.com/bagadi-alnour
-[azrica]: https://azrica.herokuapp.com/
 [linkedin]: https://www.linkedin.com/in/bagadi-alnour/
 
 ---
