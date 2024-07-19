@@ -2,7 +2,7 @@
 
 ## I am a full-stack (Java+Agnular+AWS) developer
 
-- 🚩 I'm currently working in https://maboussoleaidants.fr
+- 🚩 I'm currently working at https://maboussoleaidants.fr
 - 🌱 I'm currently learning react-native 
 - 👯 I'm not looking for a new job
 - ❕ fun fact : I dont put comma at the end of Statements/declarations in js 
