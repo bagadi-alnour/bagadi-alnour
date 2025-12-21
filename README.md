@@ -80,7 +80,7 @@ Beyond code, I'm a multilingual interpreter fluent in **🇸🇦 Arabic**, **�
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagadi-alnour&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bagadi-alnour&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=bagadi-alnour&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
