@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack DevOps Engineer** passionate about creating impactful technology solutions. As the **CTO of Echoparole**, I lead the development of a platform connecting professional interpreters with clients worldwide.
+I'm a **Full-Stack DevOps Engineer** passionate about creating impactful technology solutions. As the **Co-founder of Echoparole**, I lead the development of a platform connecting professional interpreters with clients worldwide.
 
 Beyond code, I'm a multilingual interpreter fluent in **🇸🇦 Arabic**, **🇫🇷 French**, and **🇬🇧 English**, and have collaborated with humanitarian organizations including **Médecins Sans Frontières (MSF)**, **Utopia 56**, and **Solidarité International**.
 
